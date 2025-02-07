@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"><b>Hi, I'm William</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**WilliamCallao/WilliamCallao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About Me -->
+- Bachelor's degree in Computer Science  
+- Full-stack developer for web/mobile apps and AI-driven automation projects  
+- Focused on intelligent agent systems  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills -->
+### **Technologies**:
+- **Programming Languages**: JavaScript, Python, TypeScript, Haskell
+- **Frontend**: React, Next.js, Tailwind CSS, ShadUI, HTML, CSS
+- **Backend**: MongoDB, Express.js, Node.js
+- **Mobile Development**: React Native, Flutter
