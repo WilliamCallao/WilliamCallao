@@ -1,6 +1,6 @@
 #### **About me**:
 <!-- About Me -->
-- Bachelor's degree in Computer Science  
+- Computer Science  
 - Full-stack developer for web/mobile apps and AI-driven automation projects  
 - Focused on intelligent agent systems  
 
